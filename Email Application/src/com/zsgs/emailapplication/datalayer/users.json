@@ -1,0 +1,141 @@
+[
+    {
+        "id": "U01",
+        "name": "Sadhana",
+        "username": "sadhana",
+        "password": "password1",
+        "date": 1714200063589,
+        "received": [
+            {
+                "id": "E02",
+                "to": "sadhana",
+                "from": "sid123",
+                "date": 1714200727282,
+                "subject": "Hello!",
+                "content": [
+                    "This is a reminder for the meeting set at 3:45 pm today.",
+                    "Please be sure to attend. If not present, attendance will be marked as absent for the entire day."
+                ],
+                "closing": "Regards,",
+                "signature": "Sid"
+            }
+        ],
+        "sent": [],
+        "deleted": [
+            {
+                "id": "E01",
+                "to": "sadhana",
+                "from": "IMail",
+                "date": 1714200063666,
+                "subject": "Welcome!",
+                "content": [
+                    "Hello!",
+                    "Welcome to IMail, where you can communicate with anyone instantly.",
+                    "We hope you like your experience here. "
+                ],
+                "closing": "Regards",
+                "signature": "IMail Team"
+            }
+        ]
+    },
+    {
+        "id": "U02",
+        "name": "Sid",
+        "username": "sid123",
+        "password": "password2",
+        "date": 1714200636995,
+        "received": [],
+        "sent": [],
+        "deleted": [
+            {
+                "id": "E01",
+                "to": "sid123",
+                "from": "IMail",
+                "date": 1714200637024,
+                "subject": "Welcome!",
+                "content": [
+                    "Hello!",
+                    "Welcome to IMail, where you can communicate with anyone instantly.",
+                    "We hope you like your experience here. "
+                ],
+                "closing": "Regards",
+                "signature": "IMail Team"
+            }
+        ]
+    },
+    {
+        "id": "U03",
+        "name": "meena sivakumar",
+        "username": "meena@214",
+        "password": "ABCD",
+        "date": 1714224822366,
+        "received": [
+            {
+                "id": "E02",
+                "to": "meena@214",
+                "from": "sadhana",
+                "date": 1714232738845,
+                "subject": "Just for fun",
+                "content": [
+                    "Nothing, just testing."
+                ],
+                "closing": "Regards",
+                "signature": "Sadhana"
+            }
+        ],
+        "sent": [],
+        "deleted": [
+            {
+                "id": "E01",
+                "to": "meena@214",
+                "from": "IMail",
+                "date": 1714224822396,
+                "subject": "Welcome!",
+                "content": [
+                    "Hello!",
+                    "Welcome to IMail, where you can communicate with anyone instantly.",
+                    "We hope you like your experience here. "
+                ],
+                "closing": "Regards",
+                "signature": "IMail Team"
+            }
+        ]
+    },
+    {
+        "id": "U04",
+        "name": "siva",
+        "username": "siva",
+        "password": "zazu",
+        "date": 1714225105712,
+        "received": [
+            {
+                "id": "E02",
+                "to": "siva",
+                "from": "sadhana",
+                "date": 1714229014234,
+                "subject": "Nothing",
+                "content": [
+                    "Just an email."
+                ],
+                "closing": "Cheers",
+                "signature": "Sadhana"
+            },
+            {
+                "id": "E01",
+                "to": "siva",
+                "from": "IMail",
+                "date": 1714225105736,
+                "subject": "Welcome!",
+                "content": [
+                    "Hello!",
+                    "Welcome to IMail, where you can communicate with anyone instantly.",
+                    "We hope you like your experience here. "
+                ],
+                "closing": "Regards",
+                "signature": "IMail Team"
+            }
+        ],
+        "sent": [],
+        "deleted": []
+    }
+]
